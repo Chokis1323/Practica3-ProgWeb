@@ -1,0 +1,62 @@
+body {
+    background-color: hsl(209, 87%, 78%);
+    font-family: sans-serif;
+    text-align: justify;
+}
+img {
+    text-align: center;
+
+}
+h1 {
+    color: #333333;
+    font-size: 250%;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+h2 {
+    color: hsl(0, 0%, 0%);
+    font-size: 200%;
+    
+}
+
+a{
+    text-decoration: none;
+    color: #442d02;
+}
+
+h3 {
+
+    color: hsl(0, 0%, 0%);
+    font-size: 130%;
+    font-style: italic;
+}
+
+p {
+    background-color: hsl(200, 15%, 75%);
+}
+
+em {
+    color: hsl(200, 100%, 40%);
+    font-style: normal;
+    font-weight: bold;
+}
+
+strong {
+    color: hsl(200, 100%, 30%);
+    font-weight: normal;
+}
+
+address {
+    background-color: white;
+    font-weight: bold;
+    text-align: right;
+}
+
+.contenedor1{
+    display: flex;
+}
+
+h4{
+    margin: 20px;
+}
